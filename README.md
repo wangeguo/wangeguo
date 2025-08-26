@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Eguo Wang, with over a decade of experience in internet technology R&D, possesses multi-language programming proficiency and has been All-In on [Rust](https://www.rust-lang.org/) for the past five years. Currently focused on open-source, cloud-native, Web3, and AI fields.
+My name is Eguo Wang, with over a decade of experience in internet technology R&D, possesses multi-language programming proficiency and has been **All-In on [Rust](https://www.rust-lang.org/)** for the past five years. Currently focused on open-source, cloud-native, Web3, and AI fields.
 
 ### Representative Rust Projects:
 
