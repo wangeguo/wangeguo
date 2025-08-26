@@ -8,7 +8,7 @@ My name is Eguo Wang, with over a decade of experience in internet technology R&
 - [Hummanta](https://github.com/hummanta) - Modular, reusable compiler and toolchain technologies.
 - [Amphitheatre](https://github.com/amphitheatre-app) - Accelerated Cloud Development Environments for Developers.
 - [DepRank](https://github.com/deprank) - Open Source Contribution & Allocation Audit System.
-- [axum-template](https://github.com/wangeguo/axum-template) - Basic RESTful API template build with Rust, It uses Axum HTTP framework.
+- [axum-template](https://github.com/wangeguo/axum-template) - Basic RESTful API template build with Rust & Axum.
 - [Mirror](https://github.com/ReflectiveIO/mirror) - 3D Rendering Engine.
 
 ### Blockchain Projects Involved In:
@@ -16,10 +16,10 @@ My name is Eguo Wang, with over a decade of experience in internet technology R&
 - [ALUX](https://github.com/alux-network) - The Trailblazer of On-Chain State Transitions.
 - [eigen-prover](https://github.com/wangeguo/eigen-prover) - Eigen zkVM's Proving Pipeline and StateDB.
 - [aptos-move-js](https://github.com/hummanta/aptos-move-js) - Javascript version of the move language compiler and disassemble.
-- [Amphitheatre Buildpacks](https://github.com/amp-buildpacks) - Cloud Native Buildpack implementations for popular programming language ecosystems.
-- [Suiup](https://github.com/MystenLabs/suiup) - the installer and manager for CLI tools in the Sui ecosystem.
+- [Amphitheatre Buildpacks](https://github.com/amp-buildpacks) - Cloud Native Buildpack implementations for smart contract programming languages.
+- [Suiup](https://github.com/MystenLabs/suiup) - The installer and manager for CLI tools in the Sui ecosystem.
 
-### Related Articles (Simplified Chinese):
+### Articles (Simplified Chinese):
 
 - [EVM to RISC-V? Discussing the History of RISC-V and Its Applications in Web3](https://mp.weixin.qq.com/s/b_xvLsAA4MBI2LGG21Tuyg)
 - [Vitalik vs Top Developers: A 'Virtual Roundtable' on the Web3 Virtual Machine Debate](https://mp.weixin.qq.com/s/49gjDiKY7noPyTa8zSPm6w)
