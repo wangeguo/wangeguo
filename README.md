@@ -18,6 +18,7 @@ My name is Eguo Wang, with over a decade of experience in internet technology R&
 - [aptos-move-js](https://github.com/hummanta/aptos-move-js) - Javascript version of the move language compiler and disassemble.
 - [Amphitheatre Buildpacks](https://github.com/amp-buildpacks) - Cloud Native Buildpack implementations for smart contract programming languages.
 - [Suiup](https://github.com/MystenLabs/suiup) - The installer and manager for CLI tools in the Sui ecosystem.
+- [opinion-rust-sdk](https://github.com/wangeguo/opinion-rust-sdk) - Opinion OpenAPI & CLOB SDK for Rust.
 
 ### Articles (Simplified Chinese):
 
