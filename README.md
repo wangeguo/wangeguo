@@ -10,6 +10,7 @@ My name is Eguo Wang, with over a decade of experience in internet technology R&
 - [DepRank](https://github.com/deprank) - Open Source Contribution & Allocation Audit System.
 - [axum-template](https://github.com/wangeguo/axum-template) - Basic RESTful API template build with Rust & Axum.
 - [Mirror](https://github.com/ReflectiveIO/mirror) - 3D Rendering Engine.
+- [ACP Debugger](https://github.com/wangeguo/acp-debugger) - A desktop debugger for the Agent Client Protocol (ACP).
 
 ### Blockchain Projects Involved In:
 
