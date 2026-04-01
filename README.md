@@ -37,3 +37,4 @@ My name is Eguo Wang, with over a decade of experience in internet technology R&
 - Recipient of AWS Startup Sponsorship 2024.
 - 2nd Place, Mina 2025 Hackathon.
 - Sui 2025 Chinese Developer Special Incentive.
+- Instructor for Solana Chinese Builder Bootcamp 2026.
